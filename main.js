@@ -1,4 +1,3 @@
-
 // Funcion constructora
 
 const Producto = function(nombre,precio,modelo,stock){
